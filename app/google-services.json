@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "837138187508",
+    "project_id": "tecsup-project-4d25d",
+    "storage_bucket": "tecsup-project-4d25d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837138187508:android:09206d4316c3e9dc500aa1",
+        "android_client_info": {
+          "package_name": "com.tecsup.tecsupapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4VJ0Pc3fQyZViW0ytCOSGpABPOBAgOp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
